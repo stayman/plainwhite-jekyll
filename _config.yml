@@ -28,7 +28,6 @@ url: "https://stayman.co" # the base hostname & protocol for your site, e.g. htt
 github_username: stayman
 
 # Build settings
-# theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 timezone: America/Los_Angeles
 plugins:
@@ -40,7 +39,7 @@ plainwhite:
   portfolio_image: "assets/headshot.png"
 
   social_links:
-    linkedin: in/zstayman
+    linkedIn: in/zstayman
     github: stayman
 # Exclude from processing.
 # The following items will not be processed, by default.
