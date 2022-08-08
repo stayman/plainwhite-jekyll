@@ -28,10 +28,19 @@ url: "https://stayman.co" # the base hostname & protocol for your site, e.g. htt
 github_username: stayman
 
 # Build settings
-theme: minima
+theme: plainwhite
 timezone: America/Los_Angeles
 plugins:
   - jekyll-feed
+
+plainwhite:
+  name: Zack Stayman
+  tagline: SRE. Engineering Manager.
+  # portfolio_image: "assets/headshot.png "
+
+  social_links:
+    linkedin: in/zstayman
+    github: stayman
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
