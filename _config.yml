@@ -28,7 +28,8 @@ url: "https://stayman.co" # the base hostname & protocol for your site, e.g. htt
 github_username: stayman
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 timezone: America/Los_Angeles
 plugins:
   - jekyll-feed
