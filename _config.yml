@@ -37,7 +37,7 @@ plugins:
 plainwhite:
   name: Zack Stayman
   tagline: SRE. Engineering Manager.
-  # portfolio_image: "assets/headshot.png "
+  portfolio_image: "assets/headshot.png"
 
   social_links:
     linkedin: in/zstayman
